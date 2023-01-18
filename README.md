@@ -21,6 +21,7 @@ Desafio lançado pela equipe da Rockerseat do curso Explorer / Turma 6.
   <img alt="https://raw.githubusercontent.com/gist/Fabiano2022/48af1f7d63d6bd7b1aac43f129d37f8d/raw/f659a5e037a3029dfb891f6c4c390014bf7feca5/Projeto%201%20imagem.svg" width="80%">
 </p>
 
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -32,8 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, recebi um código com o projeto desenvolvido durante as aulas da Fase 01.
-O código sofreu algumas alterações e utilizamos o que aprendemos durante a aula para acertar o Bug.
+Nesse desafio, recebi um código com o projeto desenvolvido durante as aulas da Fase 01.
+Mas, a surpresa vem aí...  👀 e que o código sofreu algumas alterações. O deafio é deixar o código da forma correta (Projeto 1) utilizando tudo o que foi aprendido na aula do stage 2.
 
 ## 🔖 Layout
 
