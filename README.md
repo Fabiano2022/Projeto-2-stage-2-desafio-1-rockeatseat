@@ -18,7 +18,7 @@ Desafio lançado pela equipe da Rockerseat do curso Explorer / Turma 6.
 <br>
 
 <p align="center">
-  <img alt="https://raw.githubusercontent.com/gist/Fabiano2022/2f8fc9a3a45844e204fb7d3bb095d0af/raw/03bd49c06381bf88f7e56a071b1b7c04a8186d17/Corrigindo%20bugs.svg" width="80%">
+  <img alt="" width="50%">
 </p>
 
 
@@ -33,8 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, recebi um código com o projeto desenvolvido durante as aulas da Fase 01.
-Mas o código sofreu algumas alterações. O deafio é corrigir os bugs e deixar o código da forma correta (conforme projeto Figma) utilizando tudo o que foi aprendido na aula do stage 2.
+Nesse desafio, recebi um código referente ao projeto 1 feito durante as aulas do stage 2, mas o código sofreu algumas alterações. O desafio é deixar o código da forma correta (conforme Projeto 1) utilizando tudo o que foi aprendido na aula do stage 2.
 
 ## 🔖 Layout
 
