@@ -17,7 +17,7 @@ Desafio lançado pela equipe da Rockerseat do curso Explorer / Turma 6.
 
 <br>
 
-<p align="center"> Imagem com Bug corrigido
+<p align="center">
   <img alt="https://raw.githubusercontent.com/gist/Fabiano2022/48af1f7d63d6bd7b1aac43f129d37f8d/raw/f659a5e037a3029dfb891f6c4c390014bf7feca5/Projeto%201%20imagem.svg" width="80%">
 </p>
 
